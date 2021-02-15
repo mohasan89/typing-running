@@ -1,0 +1,3 @@
+export const RESET_LETTER = "RESET_LETTER";
+export const CORRECT_LETTER = "CORRECT_LETTER";
+export const ERROR_LETTER = "ERROR_LETTER";
