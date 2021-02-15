@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/typing-running/static/css/main.5ca1798f.chunk.css",
+    "main.js": "/typing-running/static/js/main.882cc6a1.chunk.js",
+    "main.js.map": "/typing-running/static/js/main.882cc6a1.chunk.js.map",
+    "runtime-main.js": "/typing-running/static/js/runtime-main.469c04a6.js",
+    "runtime-main.js.map": "/typing-running/static/js/runtime-main.469c04a6.js.map",
+    "static/css/2.150d169a.chunk.css": "/typing-running/static/css/2.150d169a.chunk.css",
+    "static/js/2.fe1b2553.chunk.js": "/typing-running/static/js/2.fe1b2553.chunk.js",
+    "static/js/2.fe1b2553.chunk.js.map": "/typing-running/static/js/2.fe1b2553.chunk.js.map",
+    "static/js/3.1c420b52.chunk.js": "/typing-running/static/js/3.1c420b52.chunk.js",
+    "static/js/3.1c420b52.chunk.js.map": "/typing-running/static/js/3.1c420b52.chunk.js.map",
+    "index.html": "/typing-running/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/typing-running/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.5ca1798f.chunk.css.map": "/typing-running/static/css/main.5ca1798f.chunk.css.map",
+    "static/js/2.fe1b2553.chunk.js.LICENSE.txt": "/typing-running/static/js/2.fe1b2553.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.469c04a6.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.fe1b2553.chunk.js",
+    "static/css/main.5ca1798f.chunk.css",
+    "static/js/main.882cc6a1.chunk.js"
+  ]
+}
